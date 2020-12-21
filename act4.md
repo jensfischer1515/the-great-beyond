@@ -46,3 +46,5 @@ Wir verwenden Discord für Video Chat, also registriert euch schonmal jeweils ei
 <iframe src="https://discord.com/widget?id=770728670926602280&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 Die Battle Map wird entweder analog per Web Cam übertragen, oder digital per Virtual Table Top Software [MapTool](https://www.rptools.net/toolbox/maptool/). Der VTT Inhalt wird per Screen Sharing in Discord übertragen, oder ihr könnt euch alternativ direkt per [MapTool Client v1.7.0](https://github.com/RPTools/maptool/releases/tag/1.7.0) mit dem MapTool Server verbinden.
+
+Erstellt euch vorweg schonmal einen Token, mit dem euer Held auf der VTT Battle Map erscheinen soll: [Token Stamp 2](http://rolladvantage.com/tokenstamp/)
