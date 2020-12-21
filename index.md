@@ -2,7 +2,7 @@
 
 > A Hellknights tale in four acts.
 
-## Akt I
+### Akt I
 
 *Datum:* 2017-12-28
 
@@ -17,13 +17,13 @@
 * Steffen Holland (Yolgad)
 * Mareike Chrobak (???)
 
-### Handlung
+#### Handlung
 
 * ...
 * ...
 * ...
 
-## Akt II
+### Akt II
 
 *Datum:* 2018-12-28
 
@@ -37,13 +37,13 @@
 * Martin Soltau (Selig)
 * Henry Greve (Tschernobok)
 
-### Handlung
+#### Handlung
 
 * ...
 * ...
 * ...
 
-## Akt III
+### Akt III
 
 *Datum:* 2019-12-28
 
@@ -60,13 +60,13 @@
 * Mareike Chrobak (Thorek)
 * Carsten Schellbach (Azrah)
 
-### Handlung
+#### Handlung
 
 * ...
 * ...
 * ...
 
-## Akt IV
+### Akt IV
 
 *Datum:* 2020-12-28
 
@@ -83,7 +83,7 @@
 * Mareike Chrobak (Thorek)
 * Carsten Schellbach (Azrah)
 
-### Handlung
+#### Handlung
 
 * ...
 * ...
