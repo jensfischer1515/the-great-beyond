@@ -1,4 +1,4 @@
-{% include navigation.html}
+{% include navigation.html %}
 
 * 2017: [Akt I](act1.html)
 * 2018: [Akt II](act2.html)
