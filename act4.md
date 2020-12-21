@@ -8,7 +8,7 @@ permalink: /act4.html
 
 ### Handlung
 
-* Die zwielichtigen Aktivitäten des Vikars Giordano Torchia bleiben nicht unentdeckt!
+* Die zwielichtigen Aktivitäten des Vikars Giordano Torchia bleiben nicht unbemerkt!
 * Das dreifach-verdammte Haus Thrune beginnt eine interne Ermittlung gegen den Höllenritterorden des Tores
 * Die Helden sollen im Namen des Hauses Thrune mögliche Wege der Erlösung des Vikars erforschen
 
