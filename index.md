@@ -1,6 +1,4 @@
-## To the Great Beyond and back again
-
-> A Hellknights tale in four acts.
+{% include navigation.html}
 
 * 2017: [Akt I](act1.html)
 * 2018: [Akt II](act2.html)
