@@ -2,6 +2,8 @@
 permalink: /act3.html
 ---
 
+{% include navigation.html %}
+
 ## Akt III
 
 #### Datum: 2019-12-28
