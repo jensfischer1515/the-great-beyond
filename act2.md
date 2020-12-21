@@ -12,12 +12,12 @@ permalink: /act2.html
 
 #### Teilnehmer:
 
-* Jens Fischer (Spielleiter)
-* Susanne Fischer (Derina)
-* Christoph Gimmler (Eralion & Anoushka)
-* Lars Böttger (Gronk)
-* Martin Soltau (Selig)
-* Henry Greve (Tschernobok)
+* Jens (Spielleiter)
+* Susanne (Derina)
+* Christoph (Eralion & Anoushka)
+* Lars (Gronk)
+* Martin (Selig)
+* Henry (Tschernobok)
 
 ### Handlung
 

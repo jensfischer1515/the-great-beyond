@@ -12,13 +12,13 @@ permalink: /act1.html
 
 #### Teilnehmer
 
-* Jens Fischer (Spielleiter)
-* Susanne Fischer (Derina)
-* Christoph Gimmler (Eralion & Anoushka)
-* Lars Böttger (Gronk)
-* Martin Soltau (Selig)
-* Steffen Holland (Yolgad)
-* Mareike Chrobak (???)
+* Jens (Spielleiter)
+* Susanne (Derina)
+* Christoph (Eralion & Anoushka)
+* Lars (Gronk)
+* Martin (Selig)
+* Steffen (Yolgad)
+* Mareike (???)
 
 ### Handlung
 

@@ -12,15 +12,15 @@ permalink: /act3.html
 
 #### Teilnehmer:
 
-* Jens Fischer (Spielleiter)
-* Susanne Fischer (Derina)
-* Christoph Gimmler (Eralion & Anoushka)
-* Lars Böttger (Gronk)
-* Martin Soltau (Selig)
-* Henry Greve (Tschernobok)
-* Steffen Holland (Caligula)
-* Mareike Chrobak (Thorek)
-* Carsten Schellbach (Azrah)
+* Jens (Spielleiter)
+* Susanne (Derina)
+* Christoph (Eralion & Anoushka)
+* Lars (Gronk)
+* Martin (Selig)
+* Henry (Tschernobok)
+* Steffen (Caligula)
+* Mareike (Thorek)
+* Carsten (Azrah)
 
 ### Handlung
 
