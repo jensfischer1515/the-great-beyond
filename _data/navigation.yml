@@ -1,14 +1,14 @@
 # Belongs at: /_data/navigation.yml
 
-- title: A Hellknights tale in four acts
+- title: The Great Beyond
   url: /
   sublinks:
-    - title: Akt I
+    - title: 2017: Akt I - To Hell And Back Again
       url: /act1
-    - title: Akt II
+    - title: 2018: Akt II - Soul Theft
       url: /act2
-    - title: Akt III
+    - title: 2019: Akt III - The Lexicon of Paradox
       url: /act3
-    - title: Akt IV
-      url: /act3
+    - title: 2020: Akt IV - A Match Made In Heaven
+      url: /act4
        
