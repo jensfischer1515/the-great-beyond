@@ -2,6 +2,8 @@
 permalink: /act4.html
 ---
 
+{% include navigation.html %}
+
 ## Akt IV
 
 > A Match Made in Heaven
