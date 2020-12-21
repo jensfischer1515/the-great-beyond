@@ -1,14 +1,14 @@
 # Belongs at: /_data/navigation.yml
 
-- title: Home
+- title: A Hellknights tale in four acts
   url: /
-
-- title: Group of Things
-  url: /group/
   sublinks:
-    - title: Sub-item 1
-      url: /group/si1
-    - title: Sub-item 2
-      url: /group/si2
-    - title: Sub-item 3
-      url: /group/si3
+    - title: Akt I
+      url: /act1
+    - title: Akt II
+      url: /act2
+    - title: Akt III
+      url: /act3
+    - title: Akt IV
+      url: /act3
+       
