@@ -12,7 +12,7 @@ permalink: /act4.html
 * Das dreifach-verdammte Haus Thrune beginnt eine interne Ermittlung gegen den Höllenritterorden des Tores
 * Die Helden sollen im Namen des Hauses Thrune mögliche Wege der Erlösung des Vikars erforschen
 
-Als Belohnung für die Heldentagen in [Akt III](act3.html) erhält jeder Held ein Buch seiner Wahl:
+Als Belohnung für die Heldentaten in [Akt III](act3.html) erhält jeder Held ein Buch seiner Wahl:
 
 * [Manual of Gainful Exercise: STR +2](https://aonprd.com/MagicWondrousDisplay.aspx?FinalName=Manual%20of%20Gainful%20Exercise2)
 * [Manual of Quickness of Action: DEX +2](https://aonprd.com/MagicWondrousDisplay.aspx?FinalName=Manual%20of%20Quickness%20of%20Action2)
@@ -20,6 +20,8 @@ Als Belohnung für die Heldentagen in [Akt III](act3.html) erhält jeder Held ei
 * [Tome of Clear Thought: INT +2](https://aonprd.com/MagicWondrousDisplay.aspx?FinalName=Tome%20of%20Clear%20Thought2)
 * [Tome of Understanding: WIS +2](https://aonprd.com/MagicWondrousDisplay.aspx?FinalName=Tome%20of%20Understanding2)
 * [Tome of Leadership and Influence: CHA +2](https://aonprd.com/MagicWondrousDisplay.aspx?FinalName=Tome%20of%20Leadership%20and%20Influence2)
+
+Der Vikar hat sich bei der Übergabe der Belohnung entschuldigen lassen und einen niederen Vasallen geschickt. In einer Privataudienz übergibt er  lediglich Azrah zusätzlich noch einen voll aufgeladenen [Staff of Charming](https://aonprd.com/MagicStavesDisplay.aspx?ItemName=Staff%20of%20Charming) - für den Fall, dass sich ihm jemand in seinen rechtschaffenen Weg stellt...
 
 ##### Datum
 
