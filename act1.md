@@ -4,11 +4,12 @@ permalink: /act1.html
 
 ## Akt I
 
-*Datum:* 2017-12-28
+#### Datum: 2017-12-28
 
-*Helden:* Stufe 10, 30-point-buy
+#### Helden: Stufe 10, 30-point-buy
 
-*Teilnehmer:*
+#### Teilnehmer
+
 * Jens Fischer (Spielleiter)
 * Susanne Fischer (Derina)
 * Christoph Gimmler (Eralion & Anoushka)

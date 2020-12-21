@@ -4,11 +4,12 @@ permalink: /act2.html
 
 ## Akt II
 
-*Datum:* 2018-12-28
+#### Datum: 2018-12-28
 
-*Helden:* Stufe 11, 30-point-buy
+#### Helden: Stufe 11, 30-point-buy
 
-*Teilnehmer:*
+#### Teilnehmer:
+
 * Jens Fischer (Spielleiter)
 * Susanne Fischer (Derina)
 * Christoph Gimmler (Eralion & Anoushka)
