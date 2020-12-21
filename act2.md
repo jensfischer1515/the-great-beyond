@@ -4,20 +4,7 @@ permalink: /act2.html
 
 {% include navigation.html %}
 
-## Akt II
-
-#### Datum: 2018-12-28
-
-#### Helden: Stufe 11, 30-point-buy
-
-#### Teilnehmer:
-
-* Jens (Spielleiter)
-* Susanne (Derina)
-* Christoph (Eralion & Anoushka)
-* Lars (Gronk)
-* Martin (Selig)
-* Henry (Tschernobok)
+## {{ site.data.navigation[0].sublinks[1].title }}
 
 ### Handlung
 
@@ -30,3 +17,20 @@ permalink: /act2.html
 * Sie stellen den Mörder Torchias: ein untoter Zehrer, der neben dem Amulett auch die Seele Torchias entführt hält
 * Es gelingt den Helden, den Zehrer samt seines Uhrwerk-Golems zu besiegen und Torchias Seele zu befreien
 * Zurück in der Zitadelle Enferac kann Torchia wiederbelebt werden und dankt den Helden für ihre Taten
+
+##### Datum
+
+28.12.2018
+
+##### Helden
+
+Höllenritter aus dem Orden des Tores, Stufe 11
+
+##### Teilnehmer:
+
+* Jens (Spielleiter)
+* Susanne (Derina)
+* Christoph (Eralion & Anoushka)
+* Lars (Gronk)
+* Martin (Selig)
+* Henry (Tschernobok)

@@ -4,13 +4,23 @@ permalink: /act3.html
 
 {% include navigation.html %}
 
-## Akt III
+## {{ site.data.navigation[0].sublinks[2].title }}
 
-#### Datum: 2019-12-28
+### Handlung
 
-#### Helden: Stufe 12, 30-point-buy
+* ...
+* ...
+* ...
 
-#### Teilnehmer:
+##### Datum
+
+28.12.2019
+
+##### Helden
+
+Höllenritter aus dem Orden des Tores, Stufe 12
+
+##### Teilnehmer:
 
 * Jens (Spielleiter)
 * Susanne (Derina)
@@ -21,9 +31,3 @@ permalink: /act3.html
 * Steffen (Caligula)
 * Mareike (Thorek)
 * Carsten (Azrah)
-
-### Handlung
-
-* ...
-* ...
-* ...
