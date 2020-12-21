@@ -2,6 +2,8 @@
 permalink: /act1.html
 ---
 
+{% include navigation.html %}
+
 ## Akt I
 
 #### Datum: 2017-12-28
