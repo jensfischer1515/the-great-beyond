@@ -2,6 +2,8 @@
 permalink: /act2.html
 ---
 
+{% include navigation.html %}
+
 ## Akt II
 
 #### Datum: 2018-12-28
