@@ -2,7 +2,7 @@
 
 ## Pathfinder XMas OneShot
 
-Bereits zum vierten Mal wird dieses Jahr die Weihnachtstradition aufgegriffen, eine Truppe hochstufiger Höllenritter durch Abenteuer auf verschiedenen Äusseren Ebene der Spielwelt Golarion zu geleiten. Die Helden sind durchmischt mit unterschiedlichen Völkern und Klassen, deren Gesinnung von *gut* über *neutral* bis *böse* alle Facetten der Rechtschaffenheit abbilden. Geeint durch den Eid des [Ordens des Tores](https://pathfinderwiki.com/wiki/Order_of_the_Gate) trotzen sie gemeinsam jeder Herausforderung:
+Bereits zum vierten Mal wird dieses Jahr die Weihnachtstradition aufgegriffen, eine Truppe hochstufiger Höllenritter durch Abenteuer auf verschiedenen Äusseren Ebenen der Spielwelt Golarion zu geleiten. Die Helden sind durchmischt mit unterschiedlichen Völkern und Klassen, deren Gesinnung von *gut* über *neutral* bis *böse* alle Facetten der Rechtschaffenheit abbilden. Geeint durch den Eid des [Ordens des Tores](https://pathfinderwiki.com/wiki/Order_of_the_Gate) trotzen sie gemeinsam jeder Herausforderung:
 
 > Verurteilung im Angesicht der Verdorbenheit
 
