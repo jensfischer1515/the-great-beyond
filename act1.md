@@ -4,7 +4,7 @@ permalink: /act1.html
 
 {% include navigation.html %}
 
-## {% site.data.navigation[0].sublinks[0].title %}
+## {{ site.data.navigation[0].sublinks[0].title }}
 
 ### Handlung
 
