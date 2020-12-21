@@ -4,21 +4,7 @@ permalink: /act1.html
 
 {% include navigation.html %}
 
-## Akt I
-
-#### Datum: 2017-12-28
-
-#### Helden: Stufe 10, 30-point-buy
-
-#### Teilnehmer
-
-* Jens (Spielleiter)
-* Susanne (Derina)
-* Christoph (Eralion & Anoushka)
-* Lars (Gronk)
-* Martin (Selig)
-* Steffen (Yolgad)
-* Mareike (???)
+## {% site.data.navigation[0].sublinks[0].title %}
 
 ### Handlung
 
@@ -31,3 +17,21 @@ permalink: /act1.html
 * Den Helden wird der Einlass zum Aussenposten verweigert, weshalb sie heimlich eindringen müssen
 * Sie decken eine Geiselnahme auf und bekämpfen erfolgreich die dunkelelfischen Geiselnehmer samt dämonischer Unterstützung
 * Die befreiten Höllenritter übergeben Karskin Elrick den Helden, die ihn erfolgreich zur Zitadelle Enferac bringen können
+
+##### Datum
+
+28.12.2017
+
+##### Helden
+
+Höllenritter aus dem Orden des Tores, Stufe 10
+
+##### Teilnehmer
+
+* Jens (Spielleiter)
+* Susanne (Derina)
+* Christoph (Eralion & Anoushka)
+* Lars (Gronk)
+* Martin (Selig)
+* Steffen (Yolgad)
+* Mareike (???)

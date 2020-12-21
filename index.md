@@ -1,7 +1,7 @@
 {% include navigation.html %}
 
 
-### Logistisches
+## Logistisches
 
 Die nächste Spielrunde findet am **28.12.2020** online statt und startet **um 14:00 Uhr**. Zwischen 18:00 und 20:00 Uhr machen wir eine kurze Pause, bevor es bis ca. 23:00 weitergeht.
 
