@@ -29,7 +29,7 @@ permalink: /act3.html
 
 Höllenritter aus dem Orden des Tores, Stufe 12
 
-##### Teilnehmer:
+##### Teilnehmer
 
 * Jens (Spielleiter)
 * Susanne (Derina)

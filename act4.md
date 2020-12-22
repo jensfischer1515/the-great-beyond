@@ -31,7 +31,7 @@ Der Vikar hat sich bei der Übergabe der Belohnung entschuldigen lassen und eine
 
 Höllenritter aus dem Orden des Tores, Stufe 13
 
-##### Teilnehmer:
+##### Teilnehmer
 
 * Jens (Spielleiter)
 * Susanne (Derina)
