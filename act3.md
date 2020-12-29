@@ -35,7 +35,7 @@ Höllenritter aus dem Orden des Tores, Stufe 12
 * Susanne (Derina)
 * Christoph (Eralion & Anoushka)
 * Lars (Gronk)
-* Martin (Selig)
+* Martin (Sehlig)
 * Henry (Tschernobok)
 * Steffen (Caligula)
 * Mareike (Thorek)

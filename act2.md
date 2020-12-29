@@ -32,5 +32,5 @@ Höllenritter aus dem Orden des Tores, Stufe 11
 * Susanne (Derina)
 * Christoph (Eralion & Anoushka)
 * Lars (Gronk)
-* Martin (Selig)
+* Martin (Sehlig)
 * Henry (Tschernobok)

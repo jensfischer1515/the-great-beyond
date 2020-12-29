@@ -37,7 +37,6 @@ Höllenritter aus dem Orden des Tores, Stufe 13
 * Susanne (Derina)
 * Christoph (Eralion & Anoushka)
 * Lars (Gronk)
-* Martin (Selig)
 * Henry (Tschernobok)
 * Steffen (Caligula)
 * Mareike (Thorek)
